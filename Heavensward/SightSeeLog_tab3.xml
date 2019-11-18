@@ -6,7 +6,6 @@ Notes:    Missing 1, Can't figure out how to land on bridge light
 -->
 <Profile>
 	<Name>[OrderBot] Sightseeing Log Tab3(Non-Timed)</Name>
-	<BehaviorDirectory>..\Quest Behaviors</BehaviorDirectory>
 	<Order>
 
 		<If Condition="not IsQuestCompleted(69204)">

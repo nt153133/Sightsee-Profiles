@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile>
 	<Name>[OrderBot] Sightseeing Log Tab2(Non-Timed)</Name>
-	<BehaviorDirectory>..\Quest Behaviors</BehaviorDirectory>
 	<Order>
 
 		<If Condition="not IsQuestCompleted(69204)">

@@ -11,5 +11,10 @@ Heavensward: Done but missing 2 spots due to navigation limitations.
     https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_The_Cathedral
     
 Stormblood: Generated but testing...
-
+	Tab 5 done: Missing 3 Kugane jumping puzzles
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Bokairo_Inn
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Kogane_Dori
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Kogane_Alleyways
+	
+	
 Shadowbringers: Generated but testing...

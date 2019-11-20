@@ -22,6 +22,11 @@ Stormblood:
 	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Bloodstorm
 	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_The_Yawn (Timed)
 	
-	Tab 7: Testing
+	Tab 7: Missing
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Rakuza_District
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_The_Statue_of_Zuiko
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_Tenkonto
+	https://ffxiv.gamerescape.com/wiki/Sightseeing_Log:_East_Othard_Coastline (timed)
+	
 	
 Shadowbringers: Generated but testing...
